@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Absolute {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
+        System.out.print("---GitHub--- ");
         System.out.print("Enter an Integer: ");
         int n = sc.nextInt();
         int abs;
